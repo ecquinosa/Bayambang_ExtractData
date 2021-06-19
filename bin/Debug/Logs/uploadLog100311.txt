@@ -1,0 +1,8 @@
+06/15/2021 10:02:47  [START] Start of process
+06/15/2021 10:02:47  [PROCESS] Generate demographic
+06/15/2021 10:02:59  [SUCCESS] StationName_20190204_113848_0007 StationName_20190204_113848_0007 Success demographic creation 11s 784ms
+06/15/2021 10:02:59  [SUCCESS] StationName_20190204_113848_0007 StationName_20190204_113848_0007 Added to list
+06/15/2021 10:02:59  [PROCESS] Requesting token
+06/15/2021 10:03:01  [DONE] Token generated
+06/15/2021 10:03:01  [PROCESS] Sending create payload
+06/15/2021 10:03:11  [DONE] Send complete 10s 73ms 

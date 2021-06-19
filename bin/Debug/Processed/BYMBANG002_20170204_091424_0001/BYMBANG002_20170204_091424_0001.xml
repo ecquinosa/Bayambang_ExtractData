@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>RODOLFO</FirstName>
+  <MiddleName>DOMINGO</MiddleName>
+  <LastName>QUIBUYEN</LastName>
+  <Suffix />
+  <Gender>MALE</Gender>
+  <CivilStatus>SINGLE</CivilStatus>
+  <DateOfBirth>10/26/1949</DateOfBirth>
+  <EmploymentStatus>SELF-EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>Bayambang</City_BirthAddress>
+  <Height>164</Height>
+  <Weight>120LBS</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>ROFINO</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>QUIBUYEN</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>MANIA</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>DOMINGO</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse />
+  <MiddleName_Spouse />
+  <LastName_Spouse />
+  <Suffix_Spouse />
+  <NoOfChildren />
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname />
+  <Subdivision />
+  <Barangay>WARDING</Barangay>
+  <District>1ST DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09480902433</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <District_Contact>1ST DISTRICT</District_Contact>
+  <FirstName_Contact>ELISA</FirstName_Contact>
+  <MiddleName_Contact />
+  <LastName_Contact>QUIBUYEN</LastName_Contact>
+  <Suffix_Contact />
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>WARDING</Barangay_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09332672251</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Index</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Thumb</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Right Index</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Thumb</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0.678333047607434</PhotoScore>
+  <SessionReference>BYMBANG002_20170204_091424_0001</SessionReference>
+  <Timestamp>2/4/2017 9:22:49 AM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>

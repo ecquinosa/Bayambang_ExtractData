@@ -1,0 +1,16 @@
+D:\WORK\Projects\Bayambang_ExtractData\bin\Debug\Bayambang_ExtractData.exe.config
+D:\WORK\Projects\Bayambang_ExtractData\bin\Debug\Bayambang_ExtractData.exe
+D:\WORK\Projects\Bayambang_ExtractData\bin\Debug\Bayambang_ExtractData.pdb
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.Form1.resources
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.Properties.Resources.resources
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.csproj.GenerateResource.cache
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.exe
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.pdb
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\Bayambang_ExtractData\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\Bayambang_ExtractData\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.csproj.CopyComplete
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.Form2.resources
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.Main.resources
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.BayambangUploadingToFilConnect2.resources
+D:\WORK\Projects\Bayambang_ExtractData\obj\Debug\Bayambang_ExtractData.csproj.AssemblyReference.cache

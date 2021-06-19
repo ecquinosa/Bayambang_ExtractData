@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>PIA</FirstName>
+  <MiddleName>AÑASCO</MiddleName>
+  <LastName>PALAGANAS</LastName>
+  <Suffix />
+  <Gender>FEMALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>11/13/1983</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>BAYAMBANG</City_BirthAddress>
+  <Height>157.48</Height>
+  <Weight>51</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>PEDRO</FirstName_Father>
+  <MiddleName_Father>ACOSTA</MiddleName_Father>
+  <LastName_Father>AÑASCO</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>LIGAYA</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>CENTINA</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse>ARTURO</FirstName_Spouse>
+  <MiddleName_Spouse>VIDAMO</MiddleName_Spouse>
+  <LastName_Spouse>
+PALAGANAS</LastName_Spouse>
+  <Suffix_Spouse>JR</Suffix_Spouse>
+  <NoOfChildren>1</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname>PAPAYA ST</Streetname>
+  <Subdivision />
+  <Barangay>BICAL NORTE</Barangay>
+  <District>3RD DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09122092158</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>ARTURO</FirstName_Contact>
+  <MiddleName_Contact>VIDAMO</MiddleName_Contact>
+  <LastName_Contact>PALAGANAS</LastName_Contact>
+  <Suffix_Contact>JR</Suffix_Contact>
+  <Relation>SPOUSE</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact>PAPAYA ST</Streetname_Contact>
+  <Subdivision_Contact />
+  <Barangay_Contact>BICAL NORTE</Barangay_Contact>
+  <District_Contact>3RD DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09122092158</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Index</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Thumb</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Right Index</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Thumb</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0</PhotoScore>
+  <SessionReference>BYMBNG003_20170315_115246_0015</SessionReference>
+  <Timestamp>3/15/2017 12:35:51 PM</Timestamp>
+  <OperatorID>CHAROGALE</OperatorID>
+  <TerminalName>BYMBNG003</TerminalName>
+</MemberData>

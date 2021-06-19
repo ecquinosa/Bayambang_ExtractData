@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>JONATHAN</FirstName>
+  <MiddleName>LAQUIA</MiddleName>
+  <LastName>IGNI</LastName>
+  <Suffix />
+  <Gender>MALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>11/12/1991</DateOfBirth>
+  <EmploymentStatus>EMPLOYED - PRIVATE</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>LAGUNA</Province_BirthAddress>
+  <City_BirthAddress>LOS BAÑOS CITY</City_BirthAddress>
+  <Height>149.86</Height>
+  <Weight>75</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>LUIS</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>IGNI</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>GINGILITA</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>LAQUIA</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse>JENNIFER</FirstName_Spouse>
+  <MiddleName_Spouse>TORRES</MiddleName_Spouse>
+  <LastName_Spouse>IGNI</LastName_Spouse>
+  <Suffix_Spouse />
+  <NoOfChildren>1</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname />
+  <Subdivision />
+  <Barangay>ALINGGAN</Barangay>
+  <District>7TH DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09353009376</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>JENNIFER</FirstName_Contact>
+  <MiddleName_Contact>TORRES</MiddleName_Contact>
+  <LastName_Contact>IGNI</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>SPOUSE</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>ALINGGAN</Barangay_Contact>
+  <District_Contact>7TH DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09453394560</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Amputated</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Amputated</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Amputated</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Amputated</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0</PhotoScore>
+  <SessionReference>StationName_20190207_120913_0009</SessionReference>
+  <Timestamp>02/07/2019 12:14:05 PM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>

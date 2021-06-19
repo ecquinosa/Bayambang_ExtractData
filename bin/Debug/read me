@@ -1,0 +1,14 @@
+
+
+
+
+v1.0.0.5 changes June 15, 2021
+- remove checking vpn connection
+- added field for fixed notificationId
+- added token reset cntr and interval paramaters
+- separate to another tab the authentication parameters
+
+
+v1.0.0.6 changes June 15, 2021
+- change order of security protocol and HttpWebRequest.Create.  Security protocol should be ahead of HttpWebRequest
+- added security protocol on actual api request

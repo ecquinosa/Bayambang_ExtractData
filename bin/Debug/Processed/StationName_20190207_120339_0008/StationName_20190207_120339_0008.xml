@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>MARY GRACE</FirstName>
+  <MiddleName>BALLANO</MiddleName>
+  <LastName>CUALES</LastName>
+  <Suffix />
+  <Gender>FEMALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>05/10/1992</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>SAMAR</Province_BirthAddress>
+  <City_BirthAddress>LAVEZARES</City_BirthAddress>
+  <Height>157.48</Height>
+  <Weight>39</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>PORFERIO</FirstName_Father>
+  <MiddleName_Father>DELA TONGA</MiddleName_Father>
+  <LastName_Father>BALLANO</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>MARILOU</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>AQUINO</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse>LARRY</FirstName_Spouse>
+  <MiddleName_Spouse>BAÑEGA</MiddleName_Spouse>
+  <LastName_Spouse>CUALES</LastName_Spouse>
+  <Suffix_Spouse />
+  <NoOfChildren>4</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname>DON PASCUAL</Streetname>
+  <Subdivision />
+  <Barangay>BANI</Barangay>
+  <District>7TH DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09073834842</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>LARRY</FirstName_Contact>
+  <MiddleName_Contact>BAÑEGA</MiddleName_Contact>
+  <LastName_Contact>CUALES</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>SPOUSE</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact>DON PASCUAL</Streetname_Contact>
+  <Subdivision_Contact />
+  <Barangay_Contact>BANI</Barangay_Contact>
+  <District_Contact>7TH DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09073834842</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Index</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Middle</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Right Index</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Middle</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0</PhotoScore>
+  <SessionReference>StationName_20190207_120339_0008</SessionReference>
+  <Timestamp>02/07/2019 12:09:12 PM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>

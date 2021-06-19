@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>LEONIDA</FirstName>
+  <MiddleName>MALICDEM</MiddleName>
+  <LastName>MUNDO</LastName>
+  <Suffix />
+  <Gender>FEMALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>07/27/1945</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>BAYAMBANG</City_BirthAddress>
+  <Height>157.48</Height>
+  <Weight>54</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>EUGENIO</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>MALICDEM</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>CRISPINA</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>DUMLAO</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse>SEGUNDO</FirstName_Spouse>
+  <MiddleName_Spouse />
+  <LastName_Spouse>MUNDO</LastName_Spouse>
+  <Suffix_Spouse />
+  <NoOfChildren>5</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock>29</HouseLotBlock>
+  <Streetname />
+  <Subdivision />
+  <Barangay>DUSOC</Barangay>
+  <District>4TH DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09307990288</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>TEODORO</FirstName_Contact>
+  <MiddleName_Contact />
+  <LastName_Contact>MALICDEM</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>-SELECT CONTACT-</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>DUSOC</Barangay_Contact>
+  <District_Contact>4TH DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09307990288</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Index</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Thumb</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Right Index</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Thumb</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0.637269942835751</PhotoScore>
+  <SessionReference>BYMBANGSTATION2_20170504_014957_0043</SessionReference>
+  <Timestamp>05/04/2017 1:52:34 PM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>BYMBANGSTATION2</TerminalName>
+</MemberData>

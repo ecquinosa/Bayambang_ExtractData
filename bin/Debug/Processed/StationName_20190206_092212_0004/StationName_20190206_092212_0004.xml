@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>PRECY</FirstName>
+  <MiddleName>LINGGAN</MiddleName>
+  <LastName>FACTOR</LastName>
+  <Suffix />
+  <Gender>FEMALE</Gender>
+  <CivilStatus>COMMON LAW</CivilStatus>
+  <DateOfBirth>05/02/1985</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>BAYAMBANG</City_BirthAddress>
+  <Height>162.56</Height>
+  <Weight>58</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>CARLITO</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>FACTOR</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>SALVACION</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>LINGGAN</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse />
+  <MiddleName_Spouse />
+  <LastName_Spouse />
+  <Suffix_Spouse />
+  <NoOfChildren>1</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname />
+  <Subdivision />
+  <Barangay>WARDING</Barangay>
+  <District>1ST DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09984589529</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>RODRIGO</FirstName_Contact>
+  <MiddleName_Contact>RAMOS</MiddleName_Contact>
+  <LastName_Contact>ESTEBAN</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>-SELECT CONTACT-</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>WARDING</Barangay_Contact>
+  <District_Contact>1ST DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09100758182</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Index</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Middle</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Right Index</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Middle</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0</PhotoScore>
+  <SessionReference>StationName_20190206_092212_0004</SessionReference>
+  <Timestamp>02/06/2019 9:25:32 AM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>

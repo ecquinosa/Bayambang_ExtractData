@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>JERWIN</FirstName>
+  <MiddleName>ESTEBAN</MiddleName>
+  <LastName>ACOSTA</LastName>
+  <Suffix />
+  <Gender>MALE</Gender>
+  <CivilStatus>SINGLE</CivilStatus>
+  <DateOfBirth>08/03/1999</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>BAYAMBANG</City_BirthAddress>
+  <Height>152.40</Height>
+  <Weight>77</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>JAIME</FirstName_Father>
+  <MiddleName_Father>GARDUSE</MiddleName_Father>
+  <LastName_Father>ACOSTA</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>MARIVIC</FirstName_Mother>
+  <MiddleName_Mother>SEBASTIAN</MiddleName_Mother>
+  <LastName_Mother>ESTEBAN</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse />
+  <MiddleName_Spouse />
+  <LastName_Spouse />
+  <Suffix_Spouse />
+  <NoOfChildren />
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname />
+  <Subdivision />
+  <Barangay>WARDING</Barangay>
+  <District>1ST DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09661409993</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>ARSENIA</FirstName_Contact>
+  <MiddleName_Contact>SEBASTIAN</MiddleName_Contact>
+  <LastName_Contact>ESTEBAN</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>-SELECT CONTACT-</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>WARDING</Barangay_Contact>
+  <District_Contact>1ST DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09661409993</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Index</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Ring</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Amputated</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Amputated</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0.617480091389709</PhotoScore>
+  <SessionReference>StationName_20190206_092533_0005</SessionReference>
+  <Timestamp>02/06/2019 10:27:00 AM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>

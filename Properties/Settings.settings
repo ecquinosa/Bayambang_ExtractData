@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Bayambang_ExtractData.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://acclab.ph:8084/citizen/actions/create</Value>
+    </Setting>
+    <Setting Name="AppId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7F0A473E-F36B-1410-8BEB-0003021A1292</Value>
+    </Setting>
+    <Setting Name="LeafId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">37EC4B3E-F36B-1410-8BF1-0003021A1292</Value>
+    </Setting>
+    <Setting Name="AuthUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://acclab.ph:9090/auth/realms/D0808731-D59D-EA11-9C14-98541B2295E9/protocol/openid-connect/token</Value>
+    </Setting>
+    <Setting Name="AuthUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dev@aris.com</Value>
+    </Setting>
+    <Setting Name="AuthPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@ssw0rd</Value>
+    </Setting>
+    <Setting Name="AuthGrant" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="AuthClient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">aris</Value>
+    </Setting>
+    <Setting Name="NotifId" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TokenResetCntr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="SleepInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>ANTONIO</FirstName>
+  <MiddleName>DELOS SANTOS</MiddleName>
+  <LastName>QUINTOS</LastName>
+  <Suffix>SR</Suffix>
+  <Gender>MALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>12/21/1946</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>BAYAMBANG</City_BirthAddress>
+  <Height>167.64</Height>
+  <Weight>67</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>FELIPE</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>QUINTOS</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>ANSUNCION</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>DELOS SANTOS</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse>ELENA</FirstName_Spouse>
+  <MiddleName_Spouse>BARNACHEA</MiddleName_Spouse>
+  <LastName_Spouse>QUINTOS</LastName_Spouse>
+  <Suffix_Spouse />
+  <NoOfChildren>8</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname>LANGKA STREET</Streetname>
+  <Subdivision>BRGY</Subdivision>
+  <Barangay>BICAL NORTE</Barangay>
+  <District>3RD DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09109779048</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>ELENA</FirstName_Contact>
+  <MiddleName_Contact>BARNACHEA</MiddleName_Contact>
+  <LastName_Contact>QUINTOS</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>SPOUSE</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact>LANGKA STREET</Streetname_Contact>
+  <Subdivision_Contact>BRGY</Subdivision_Contact>
+  <Barangay_Contact>BICAL NORTE</Barangay_Contact>
+  <District_Contact>3RD DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09109779048</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Left Ring</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Middle</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Right Index</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Ring</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0.726140808134851</PhotoScore>
+  <SessionReference>BYMBNG003_20170315_111507_0012</SessionReference>
+  <Timestamp>3/15/2017 11:34:56 AM</Timestamp>
+  <OperatorID>CHAROGALE</OperatorID>
+  <TerminalName>BYMBNG003</TerminalName>
+</MemberData>

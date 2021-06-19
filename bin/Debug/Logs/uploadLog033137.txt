@@ -1,0 +1,26 @@
+06/04/2021 03:30:52  [START] Start of process
+06/04/2021 03:30:52  [PROCESS] Generate demographic
+06/04/2021 03:30:53  [SUCCESS] StationName_20190207_120339_0008 StationName_20190207_120339_0008 Success demographic creation 0s 344ms
+06/04/2021 03:30:53  [SUCCESS] StationName_20190207_120339_0008 StationName_20190207_120339_0008 Added to list
+06/04/2021 03:30:54  [PROCESS] Requesting token
+06/04/2021 03:30:56  [DONE] Token generated
+06/04/2021 03:30:56  [PROCESS] Sending create payload
+06/04/2021 03:31:06  [DONE] Send complete 10s 164ms 
+06/04/2021 03:31:06  [DONE] StationName_20190207_120339_0008 13s 483ms
+06/04/2021 03:31:06  [PROCESS] Generate demographic
+06/04/2021 03:31:06  [SUCCESS] StationName_20190207_120847_0005 StationName_20190207_120847_0005 Success demographic creation 0s 33ms
+06/04/2021 03:31:06  [SUCCESS] StationName_20190207_120847_0005 StationName_20190207_120847_0005 Added to list
+06/04/2021 03:31:06  [PROCESS] Sending create payload
+06/04/2021 03:31:16  [DONE] Send complete 10s 27ms 
+06/04/2021 03:31:16  [DONE] StationName_20190207_120847_0005 10s 379ms
+06/04/2021 03:31:16  [PROCESS] Generate demographic
+06/04/2021 03:31:16  [SUCCESS] StationName_20190207_120913_0009 StationName_20190207_120913_0009 Success demographic creation 0s 103ms
+06/04/2021 03:31:16  [SUCCESS] StationName_20190207_120913_0009 StationName_20190207_120913_0009 Added to list
+06/04/2021 03:31:17  [PROCESS] Sending create payload
+06/04/2021 03:31:27  [DONE] Send complete 10s 28ms 
+06/04/2021 03:31:27  [DONE] StationName_20190207_120913_0009 10s 553ms
+06/04/2021 03:31:27  [PROCESS] Generate demographic
+06/04/2021 03:31:27  [SUCCESS] StationName_20190207_121406_0010 StationName_20190207_121406_0010 Success demographic creation 0s 143ms
+06/04/2021 03:31:27  [SUCCESS] StationName_20190207_121406_0010 StationName_20190207_121406_0010 Added to list
+06/04/2021 03:31:27  [PROCESS] Sending create payload
+06/04/2021 03:31:37  [DONE] Send complete 10s 27ms 

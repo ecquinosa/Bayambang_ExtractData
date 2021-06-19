@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>MELODY</FirstName>
+  <MiddleName>FRESCO</MiddleName>
+  <LastName>ALCANTARA</LastName>
+  <Suffix />
+  <Gender>FEMALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>03/08/1983</DateOfBirth>
+  <EmploymentStatus>SELF-EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>SULTAN KUDARAT</Province_BirthAddress>
+  <City_BirthAddress>LEBAK</City_BirthAddress>
+  <Height>162.56</Height>
+  <Weight>50</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>ALFREDO</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>ALCANTARA</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>TERESITA</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>FRESCO</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse />
+  <MiddleName_Spouse />
+  <LastName_Spouse />
+  <Suffix_Spouse />
+  <NoOfChildren>5</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname />
+  <Subdivision />
+  <Barangay>BACNONO</Barangay>
+  <District>8TH DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09388193481</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>JIMMHEL</FirstName_Contact>
+  <MiddleName_Contact>FRESCO</MiddleName_Contact>
+  <LastName_Contact>ALCANTARA</LastName_Contact>
+  <Suffix_Contact />
+  <Relation />
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>BACNONO</Barangay_Contact>
+  <District_Contact>8TH DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09388193481</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Amputated</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Amputated</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Amputated</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Amputated</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0</PhotoScore>
+  <SessionReference>StationName_20190206_103125_0004</SessionReference>
+  <Timestamp>02/06/2019 11:40:24 AM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>

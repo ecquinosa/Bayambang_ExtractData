@@ -1,0 +1,137 @@
+{
+    "isLazyLoading": "false",
+    "notificationId": "",
+    "geoLocation": {
+        "latitude": "23",
+        "longitude": "232",
+        "dateTime": "yyyy-MM-dd HH:mm:ss"
+    },
+    "payload": {
+        "memberId":@@memberId,
+        "institutionId": "D0808731-D59D-EA11-9C14-98541B2295E9",
+        "lastName": "@@lastName",
+        "firstName": "@@firstName",
+        "middleName": "@@middleName",
+        "suffix": "@@suffix",
+        "gender": "@gender",
+        "civilStatusId": "00000000-0000-0000-0000-000000000000",
+        "civilStatus": "@civilStatus",
+        "citizenshipId": "00000000-0000-0000-0000-000000000000",
+        "citizenship": "FILIPINO",
+        "birthDate": "@birthDateT00:00:00.000Z",
+        "birthCityId": "00000000-0000-0000-0000-000000000000",
+        "birthCity": "@birthCity",
+        "birthProvinceId": "00000000-0000-0000-0000-000000000000",
+        "birthProvince": "@birthProvince",
+        "birthCountryId": "00000000-0000-0000-0000-000000000000",
+        "birthCountry": "PHILIPPINES",
+        "height": "@height",
+        "weight": "@weight",
+        "tin": "@tin",
+        "distinguishingRemarks": "@distinguishingRemarks",
+        "noOfChildren":@noOfChildren,
+        "employmentStatusId": "00000000-0000-0000-0000-000000000000",
+        "employmentStatus": "@employmentStatus",
+        "isRegisteredVoter":@isRegisteredVoter,
+        "isPwd": false,
+        "isDependent": false,
+        "address": {
+            "permanentRoomFloorUnitBldg": "@permanentRoomFloorUnitBldg",
+            "permanentHouseLotBlock": "@permanentHouseLotBlock",
+            "permanentStreetname": "@permanentStreetname",
+            "permanentSubdivision": "@permanentSubdivision",
+            "permanentBarangayId": "00000000-0000-0000-0000-000000000000",
+            "permanentBarangay": "@permanentBarangay",
+            "permanentCityId": "00000000-0000-0000-0000-000000000000",
+            "permanentCity": "@permanentCity",
+            "permanentProvinceId": "00000000-0000-0000-0000-000000000000",
+            "permanentProvince": "@permanentProvince",
+            "permanentCountryId": "00000000-0000-0000-0000-000000000000",
+            "permanentCountry": "PHILIPPINES",
+            "permanentPostal": "@permanentPostal",
+            "permanentDistrictId": "00000000-0000-0000-0000-000000000000",
+            "permanentDistrict": "@permanentDistrict",
+            "presentRoomFloorUnitBldg": "@@presentRoomFloorUnitBldg",
+            "presentHouseLotBlock": "@@presentHouseLotBlock",
+            "presentStreetname": "@@presentStreetname",
+            "presentSubdivision": "@@presentSubdivision",
+            "presentBarangayId": "00000000-0000-0000-0000-000000000000",
+            "presentBarangay": "@@presentBarangay",
+            "presentCityId": "00000000-0000-0000-0000-000000000000",
+            "presentCity": "@@presentCity",
+            "presentProvinceId": "00000000-0000-0000-0000-000000000000",
+            "presentProvince": "@@presentProvince",
+            "presentCountryId": "00000000-0000-0000-0000-000000000000",
+            "presentCountry": "PHILIPPINES",
+            "presentPostal": "@@presentPostal",
+            "presentDistrictId": "00000000-0000-0000-0000-000000000000",
+            "presentDistrict": "@@presentDistrict"
+        },
+        "relationship": [
+            {
+                "lastName": "@lastNameFather",
+                "firstName": "@firstNameFather",
+                "middleName": "@middleNameFather",
+                "suffix": "@suffixFather",
+                "relationshipTypeId": "1FDFDBEE-6EB1-EA11-AA80-0A75E0AFB438",
+                "relationshipType": "FATHER"
+            },
+            {
+                "lastName": "@lastNameMother",
+                "firstName": "@firstNameMother",
+                "middleName": "@middleNameMother",
+                "suffix": "@suffixMother",
+                "relationshipTypeId": "20DFDBEE-6EB1-EA11-AA80-0A75E0AFB438",
+                "relationshipType": "MOTHER"
+            }
+        ],
+        "contact": [
+            {
+                "type": "F56998D0-2BAB-EA11-AA80-0A46F5C1402C",
+                "value": "@@telephoneNosContact2"
+            },
+            {
+                "type": "F66998D0-2BAB-EA11-AA80-0A46F5C1402C",
+                "value": "@@mobileNosContact2"
+            },
+            {
+                "type": "334EE2D8-2BAB-EA11-AA80-0A46F5C1402C",
+                "value": "@@emailContact2"
+            }
+        ],
+        "contactPerson": {
+            "lastName": "@lastNameContact",
+            "firstName": "@firstNameContact",
+            "middleName": "@middleNameContact",
+            "suffix": "@suffixContact",
+            "telephoneNos": "@telephoneNosContact",
+            "mobileNos": "@mobileNosContact",
+            "email": "@emailContact",
+            "presentRoomFloorUnitBldg": "@presentRoomFloorUnitBldgContact",
+            "presentHouseLotBlock": "@presentHouseLotBlockContact",
+            "presentStreetname": "@presentStreetnameContact",
+            "presentSubdivision": "@presentBarangayIdContact",
+            "presentBarangayId": "00000000-0000-0000-0000-000000000000",
+            "presentBarangay": "@presentBarangayContact",
+            "presentCityId": "00000000-0000-0000-0000-000000000000",
+            "presentCity": "@presentCityContact",
+            "presentProvinceId": "00000000-0000-0000-0000-000000000000",
+            "presentProvince": "@presentProvinceContact",
+            "presentCountryId": "00000000-0000-0000-0000-000000000000",
+            "presentCountry": "PHILIPPINES",
+            "presentPostal": "@presentPostalContact",
+            "presentDistrictId": "00000000-0000-0000-0000-000000000000",
+            "presentDistrict": "@presentDistrictContact"
+        },
+        "photo": {
+	    "memberId": "@photoMemberId",
+            "ext": "@photoExt",
+            "base64": "@photoLocation"
+        },
+        "signature": {
+            "memberId": "@signatureMemberId",
+            "ext": "@signatureExt",
+            "base64": "@signatureLocation"
+        }
+    }
+}

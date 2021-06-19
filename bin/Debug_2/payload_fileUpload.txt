@@ -1,0 +1,13 @@
+{
+    "isLazyLoading": "false",
+    "notificationId": "c6abf09c-9e28-4f59-8e3b-c33983d21bf9",
+    "geoLocation": {
+        "latitude": 14.6374656,
+        "longtitude": 121.06792959999999,
+        "dateTime": "2020-07-01T02:08:06.118Z"
+    },
+    "payload": {
+        "fileName": "@fileName",
+        "base64": "@base64"
+    }
+}

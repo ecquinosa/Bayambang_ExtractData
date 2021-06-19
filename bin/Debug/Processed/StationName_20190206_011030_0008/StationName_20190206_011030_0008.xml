@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MemberData>
+  <FirstName>MELODY</FirstName>
+  <MiddleName>LAURENTE</MiddleName>
+  <LastName>SANTIAGO</LastName>
+  <Suffix />
+  <Gender>FEMALE</Gender>
+  <CivilStatus>MARRIED</CivilStatus>
+  <DateOfBirth>07/25/1972</DateOfBirth>
+  <EmploymentStatus>NOT EMPLOYED</EmploymentStatus>
+  <RegisteredVoter>YES</RegisteredVoter>
+  <TIN>000000000</TIN>
+  <Country_BirthAddress>PHILIPPINES</Country_BirthAddress>
+  <Province_BirthAddress>PANGASINAN</Province_BirthAddress>
+  <City_BirthAddress>BAYAMBANG</City_BirthAddress>
+  <Height>149.86</Height>
+  <Weight>53</Weight>
+  <DistinguishingMark />
+  <FirstName_Father>USEBIO</FirstName_Father>
+  <MiddleName_Father />
+  <LastName_Father>LAURENTE</LastName_Father>
+  <Suffix_Father />
+  <FirstName_Mother>REMEDIOS</FirstName_Mother>
+  <MiddleName_Mother />
+  <LastName_Mother>VILLAROEL</LastName_Mother>
+  <Suffix_Mother />
+  <FirstName_Spouse>JESUS</FirstName_Spouse>
+  <MiddleName_Spouse>GARCIA </MiddleName_Spouse>
+  <LastName_Spouse>SANTIAGO</LastName_Spouse>
+  <Suffix_Spouse />
+  <NoOfChildren>7</NoOfChildren>
+  <RoomFloorUnitBldg />
+  <HouseLotBlock />
+  <Streetname>DON PASCUAL</Streetname>
+  <Subdivision />
+  <Barangay>BANI</Barangay>
+  <District>7TH DISTRICT</District>
+  <Country_Address>PHILIPPINES</Country_Address>
+  <Province_Address>PANGASINAN</Province_Address>
+  <City_Address>BAYAMBANG</City_Address>
+  <Postal>2423</Postal>
+  <MobileNos>09472853650</MobileNos>
+  <TelephoneNos />
+  <EmailAddress />
+  <FirstName_Contact>JESUS</FirstName_Contact>
+  <MiddleName_Contact>GARCIA</MiddleName_Contact>
+  <LastName_Contact>SANTIAGO</LastName_Contact>
+  <Suffix_Contact />
+  <Relation>SPOUSE</Relation>
+  <RoomFloorUnitBldg_Contact />
+  <HouseLotBlock_Contact />
+  <Streetname_Contact />
+  <Subdivision_Contact />
+  <Barangay_Contact>BANI</Barangay_Contact>
+  <District_Contact>7TH DISTRICT</District_Contact>
+  <Country_Address_Contact>PHILIPPINES</Country_Address_Contact>
+  <Province_Address_Contact>PANGASINAN</Province_Address_Contact>
+  <City_Address_Contact>BAYAMBANG</City_Address_Contact>
+  <Postal_Contact>2423</Postal_Contact>
+  <MobileNos_Contact>09472853650</MobileNos_Contact>
+  <TelephoneNos_Contact />
+  <EmailAddress_Contact />
+  <RecardReason />
+  <LeftPrimaryFingerCode>Amputated</LeftPrimaryFingerCode>
+  <LeftThumbFingerCode>Left Middle</LeftThumbFingerCode>
+  <RightPrimaryFingerCode>Amputated</RightPrimaryFingerCode>
+  <RightThumbFingerCode>Right Middle</RightThumbFingerCode>
+  <PhotoOverride>True</PhotoOverride>
+  <SignatureOverride>False</SignatureOverride>
+  <PhotoICAO>True</PhotoICAO>
+  <PhotoScore>0</PhotoScore>
+  <SessionReference>StationName_20190206_011030_0008</SessionReference>
+  <Timestamp>02/06/2019 1:42:15 PM</Timestamp>
+  <OperatorID>JACKJUNIO</OperatorID>
+  <TerminalName>StationName</TerminalName>
+</MemberData>
